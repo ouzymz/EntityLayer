@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{26BD772B-96E3-434C-B43D-BE137BB3C2A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "..\WinFormsApp1\WinFormsApp1.csproj", "{5D1D7D1D-9766-43DB-82F4-4ACDDA43EC96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UILayer", "..\WinFormsApp1\UILayer.csproj", "{5D1D7D1D-9766-43DB-82F4-4ACDDA43EC96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
